@@ -32,4 +32,4 @@ Copy the `.mplstyle` file to the Matplotlib style library directory.
 - Linux:
 `/home/<username>/.config/matplotlib/stylelib/<StyleName>.mplstyle`
 
-Replace <username> and <StyleName> with the appropriate values and *x* with Python version.
+Replace *<username>* and *<StyleName>* with the appropriate values and *x* with Python version.
